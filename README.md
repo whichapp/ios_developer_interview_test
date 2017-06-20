@@ -1,7 +1,7 @@
 iOS Developer Interview Test
 ============================
 
-#Tasks
+### Tasks
 
 - [ ] Present data in table view
  
@@ -17,7 +17,7 @@ iOS Developer Interview Test
  
 - [ ] Debug 
 
-#Footnote
+### Footnote
 
 Start from first task, mote to next one when you sure it's working ap to this point. It's better to see some results than nothing
  
