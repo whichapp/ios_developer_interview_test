@@ -15,7 +15,7 @@ iOS Developer Interview Test
  
 - [ ] Format images
  
-- [ ] (Optional) Debug (maybe there are no bugs :)
+- [ ] Debug 
 
 #Footnote
 
