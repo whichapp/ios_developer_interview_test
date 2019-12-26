@@ -1,5 +1,6 @@
-iOS Developer Interview Test
+HICH iOS Developer Interview Test
 ============================
+Created for [HICH](https://www.hichapp.com)
 
 ### Tasks
 
